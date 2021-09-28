@@ -1,1 +1,1 @@
-# Sum in 8085
+# Summing in 8085
