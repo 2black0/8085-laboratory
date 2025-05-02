@@ -1,1 +1,0 @@
-# Introduction to 8085 simulator software
